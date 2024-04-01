@@ -1,4 +1,4 @@
-package object_class;
+package object_class; // asd
 
 // 은행계좌 클래스(신한은행) => 멤버변수 접근제한자로 보호, getter/setter 설정
 
